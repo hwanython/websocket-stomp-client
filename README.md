@@ -1,6 +1,6 @@
 # WebSocket & SockJS STOMP 클라이언트
 
-HTML, CSS (Bootstrap), JavaScript로 제작된 현대적이고 다크 테마를 적용한 WebSocket 및 SockJS STOMP 클라이언트입니다. 이 클라이언트를 통해 WebSocket 서버에 연결하고, 주제를 구독하며, 메시지를 전송하고, 실시간으로 수신된 메시지를 확인할 수 있습니다.
+WebSocket 및 SockJS STOMP 클라이언트입니다. 이 클라이언트를 통해 WebSocket 서버에 연결하고, 주제를 구독하며, 메시지를 전송하고, 실시간으로 수신된 메시지를 확인할 수 있습니다.
 
 ## 주요 기능
 
@@ -89,8 +89,3 @@ HTML, CSS (Bootstrap), JavaScript로 제작된 현대적이고 다크 테마를 
 - [STOMP.js 문서](https://stomp-js.github.io/)
 - [SockJS 문서](https://github.com/sockjs/sockjs-client)
 - [Bootstrap](https://getbootstrap.com/)
-
----
-
-즐거운 코딩 되세요! 🚀
-
