@@ -11,7 +11,7 @@ HTML, CSS (Bootstrap), JavaScript로 제작된 현대적이고 다크 테마를 
 
 ## 데모
 
-![앱 스크린샷](screenshot.png)
+![앱 스크린샷](./statics/page_image.PNG)
 
 ## 설치 방법
 
